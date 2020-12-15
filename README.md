@@ -9,14 +9,13 @@
  
  O projeto contem:<br/>
   As cenas contendo os abientes<br/>
-  
   os objetos Mesh 3D utilizados nas cenas<br/>
   os Codigos fonte do agente e as outras entidades<br/>
   os arquivos contendo os resultdos analizaveis pelo tensorflow <br/>
   os modelos de rede neural  pré treinados <br/>
   
   
-  Para executar deve seguir os tutorias de instalação dos ambientes  disponiveis no links a cima <br/>
+  Para executar deve seguir os tutorias de instalação dos ambientes  disponiveis nos links a cima <br/>
    as seguintes ferramentas são necessartias:<br/>
    Unity<br/>
    Anaconda<br/>
