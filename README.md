@@ -9,6 +9,7 @@
  
  O projeto contem:
   As cenas contendo os abientes
+  
   os objetos Mesh 3D utilizados nas cenas
   os Codigos fonte do agente e as outras entidades
   os arquivos contendo os resultdos analizaveis pelo tensorflow 
