@@ -16,3 +16,8 @@
   
   
   Para executar deve seguir os tutorias de instalação dos ambientes  disponiveis no links a cima 
+   as seguintes ferramentas são necessartias:
+   Unity
+   Anaconda
+   Pytorch
+   Tensorflow
