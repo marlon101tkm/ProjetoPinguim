@@ -7,18 +7,18 @@
  
  Foi  removida a pasta contendo as  bibliotecas para para permitir a importação para GitHub
  
- O projeto contem:
-  As cenas contendo os abientes
+ O projeto contem:<br/>
+  As cenas contendo os abientes<br/>
   
-  os objetos Mesh 3D utilizados nas cenas
-  os Codigos fonte do agente e as outras entidades
-  os arquivos contendo os resultdos analizaveis pelo tensorflow 
-  os modelos de rede neural  pré treinados 
+  os objetos Mesh 3D utilizados nas cenas<br/>
+  os Codigos fonte do agente e as outras entidades<br/>
+  os arquivos contendo os resultdos analizaveis pelo tensorflow <br/>
+  os modelos de rede neural  pré treinados <br/>
   
   
-  Para executar deve seguir os tutorias de instalação dos ambientes  disponiveis no links a cima 
-   as seguintes ferramentas são necessartias:
-   Unity
-   Anaconda
-   Pytorch
-   Tensorflow
+  Para executar deve seguir os tutorias de instalação dos ambientes  disponiveis no links a cima <br/>
+   as seguintes ferramentas são necessartias:<br/>
+   Unity<br/>
+   Anaconda<br/>
+   Pytorch<br/>
+   Tensorflow<br/>
